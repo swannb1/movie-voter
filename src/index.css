@@ -1,0 +1,16 @@
+* {
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, san-serif;
+}
+
+button {
+  color: #000000;
+}
+
+body {
+  background-color: #101010;
+  place-items: center;
+}

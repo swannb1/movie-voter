@@ -1,0 +1,9 @@
+#root {
+  width: 80vw;
+}
+
+main {
+  display: flex;
+  justify-content: space-around;
+  flew-wrap: wrap;
+}
